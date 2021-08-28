@@ -1,0 +1,22 @@
+{
+    "name": "anderson.unsonst/test",
+    "email": "andersonunsonst@gmail.com",
+    "role": "developer",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "GFDL",
+    "autoload": {
+        "psr-4": {
+            "Desafio\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anderson Unsonst",
+            "email": "andersonunsonst@gmail.com"
+        }
+    ],
+    "require": {}
+}
